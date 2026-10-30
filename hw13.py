@@ -2,7 +2,7 @@
 #Class: 6th Hour
 #Assignment: HW13
 
-import random
+
 #1. Import the random function
 import random
 #2. Create a variable called 'temp' that randomly generates a number between 1 and 30
