@@ -38,6 +38,7 @@ while True:
     if z == 1:
         break
 
+
 #5. Create a while loop that asks for a number input until the user inputs the number 0.
 while True:
     zero = float(input("input a number"))
